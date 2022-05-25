@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
    <img align="left" alt="DevCyBlade-pic2" height="150" style="border-radius:50px;" 
  src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg">
-  <img align="center" alt="DevCyBlade-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="DevCyBlade-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="DevCyBlade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DevCyBlade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="DevCyBlade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
