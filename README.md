@@ -1,8 +1,8 @@
-##- 👋 Hi, I’m @DevCyBlade
+##
+- 👋 Hi, I’m @DevCyBlade
 - 👀 Backend Java Developer
 - Sapphire Louise's Super Hyper Over Master Protector Dad.
-
-
+##
 
 <div align="center">
   <a href="https://github.com/DevCyBlade">
@@ -22,17 +22,14 @@
   <img align="center" alt="DevCyBlade-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="DevCyBlade-pic" height="150" style="border-radius:50px;" 
  src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg">
- 
-       
-       
-       
 </div>
-  
+##  
   <div>
  
   ![Snake animation](https://github.com/DevCyBlade/DevCyBlade/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  ##
  
 
 
