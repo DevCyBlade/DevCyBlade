@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="CyBlade-pic" height="150" style="border-radius:50px;" 
   <!---     
- src="https://4.bp.blogspot.com/-UBR0MpbYZp8/XAsKgpm7ZHI/AAAAAAAABRA/j0Dxbz9SBl4vLpzM2xhYne2lRcn4ZAdaQCLcBGAs/s1600/master-chief-h2a-fullscreen-1920x1080-d002fe75b142408795a6a4d4d60d3c35.jpg"
+ src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg"
   --->
 </div>
   
