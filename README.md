@@ -19,9 +19,9 @@
   <img align="center" alt="DevCyBlade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="DevCyBlade-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="DevCyBlade-pic" height="150" style="border-radius:50px;" 
- src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg"
+ src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg">
   <img align="left" alt="DevCyBlade-pic2" height="150" style="border-radius:50px;" 
- src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg"
+ src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg">
        
        
        
