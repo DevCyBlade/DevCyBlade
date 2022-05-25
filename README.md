@@ -8,6 +8,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevCyBlade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCyBlade&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  
 <div style="display: inline_block"><br>
    <img align="left" alt="DevCyBlade-pic2" height="100" style="border-radius:50px;" 
  src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg">
@@ -22,11 +24,11 @@
   <img align="right" alt="DevCyBlade-pic" height="100" style="border-radius:50px;" 
  src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg">
 </div>
-  <div>
- 
+  
+  
+<div>
   ![Snake animation](https://github.com/DevCyBlade/DevCyBlade/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
  
 <!---
 DevCyBlade/DevCyBlade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
