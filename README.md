@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
    <img align="left" alt="DevCyBlade-pic2" height="100" style="border-radius:50px;" 
  src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg">
-  <img align="center" alt="DevCyBlade-Java" height="120" width="160" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="DevCyBlade-Java" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="DevCyBlade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DevCyBlade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="DevCyBlade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
