@@ -22,7 +22,6 @@
   <img align="right" alt="DevCyBlade-pic" height="150" style="border-radius:50px;" 
  src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg">
 </div>
-##  
   <div>
  
   ![Snake animation](https://github.com/DevCyBlade/DevCyBlade/blob/output/github-contribution-grid-snake.svg)
