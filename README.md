@@ -10,6 +10,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCyBlade&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+   <img align="left" alt="DevCyBlade-pic2" height="150" style="border-radius:50px;" 
+ src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg">
   <img align="center" alt="DevCyBlade-Java" height="120" width="160" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="DevCyBlade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DevCyBlade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,8 +22,7 @@
   <img align="center" alt="DevCyBlade-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="DevCyBlade-pic" height="150" style="border-radius:50px;" 
  src="https://marquesfernandes.com/wp-content/uploads/2020/08/maximilian-weisbecker-1td5Iq5IvNc-unsplash.jpg">
-  <img align="left" alt="DevCyBlade-pic2" height="150" style="border-radius:50px;" 
- src="https://acropolium.com/img/articles/baas-use-cases/img01.jpg">
+ 
        
        
        
