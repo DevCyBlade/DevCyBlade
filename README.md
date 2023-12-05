@@ -35,11 +35,6 @@
 </div>
   
   
-<div>
-  
-  ![Snake animation](https://github.com/DevCyBlade/DevCyBlade/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
  
 <!---
 DevCyBlade/DevCyBlade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
